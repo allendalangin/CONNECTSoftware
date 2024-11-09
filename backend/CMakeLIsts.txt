@@ -1,0 +1,8 @@
+# backend/CMakeLists.txt
+cmake_minimum_required(VERSION 3.10)
+project(CrowApp)
+
+set(CMAKE_CXX_STANDARD 17)
+
+# Include crow_all.h
+add_executable(CrowApp main.cpp)

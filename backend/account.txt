@@ -1,0 +1,9 @@
+allen@org.mapua Allen1
+testtest@org.mapua Test1
+allenjohn@org.mapua testPass1
+hellotest@org.mapua Hello1
+allen@cdmo.mapua Allen1
+allen@osaar.mapua Allen1
+staff@cdmo.mapua Staff1
+pice@org.mapua Pice1
+gdsc@org.mapua Admin10
