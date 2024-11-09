@@ -1,0 +1,100 @@
+---------------------------
+Event Name: Campus to Careers: Equipping Graduates for Success
+Event Date: 2024-12-20
+Event Venue: Smart Room
+Event Objectives: Prepare the graduating class for the job-hunting process and the 21st-century workplace
+Relevant SDGs: 8,17
+Username: allen@org.mapua
+Status: Pending
+CDMO: No response yet
+OSAAR: Approved
+---------------------------
+Event Name: GDSC On-Boarding Batch 2024
+Event Date: 2025-01-09
+Event Venue: Seminar Room
+Event Objectives: Orient the new members and officers of the organization.
+Relevant SDGs: 4,17
+Username: allen@org.mapua
+Status: Pending
+CDMO: No response yet
+OSAAR: Approved
+---------------------------
+Event Name: Project All Blue 3.0
+Event Date: 2025-01-29
+Event Venue: Seminar Room
+Event Objectives: 1. Aid freshmen in acclimating to the Mapúan environment. 2. Introduce tips and study practices that could aid the whole student body of Mapúa.
+Relevant SDGs: 4,17
+Username: allen@org.mapua
+Status: Pending
+CDMO: No response yet
+OSAAR: Approved
+---------------------------
+Event Name: FSL 2.0: Filipino Sign Language in Healthcare
+Event Date: 2024-11-14
+Event Venue: Seminar Room
+Event Objectives: To demonstrate FSL in the healthcare sector
+Relevant SDGs: 1,17
+Username: allen@org.mapua
+Status: Pending
+CDMO: No response yet
+OSAAR: Approved
+---------------------------
+Event Name: HSM Christmas Party 2.0
+Event Date: 2024-12-22
+Event Venue: Smart Room
+Event Objectives: HSM Christmas Celebration
+Relevant SDGs: 1,3,17
+Username: allen@org.mapua
+Status: Pending
+CDMO: No response yet
+OSAAR: Approved
+---------------------------
+Event Name: Etan Dash 
+Event Date: 2024-11-28
+Event Venue: Smart Room
+Event Objectives: A recreational activity for officers and members of HSM
+Relevant SDGs: 3
+Username: allen@org.mapua
+Status: Pending
+CDMO: No response yet
+OSAAR: Approved
+---------------------------
+Event Name: HSM Application Orientation
+Event Date: 2024-11-15
+Event Venue: AVR 1
+Event Objectives: To orient incoming etan members
+Relevant SDGs: 1,3
+Username: allen@org.mapua
+Status: Pending
+CDMO: No response yet
+OSAAR: Approved
+---------------------------
+Event Name: Etan Night 2025
+Event Date: 2025-03-28
+Event Venue: Seminar Room
+Event Objectives: To celebrate the legacy of Etans
+Relevant SDGs: 1,17
+Username: allen@org.mapua
+Status: Pending
+CDMO: No response yet
+OSAAR: Approved
+---------------------------
+Event Name: hellohello
+Event Date: 2024-11-10
+Event Venue: Seminar Room
+Event Objectives: hi
+Relevant SDGs: 1,2,3,4,5
+Username: gdsc@org.mapua
+Status: Pending
+CDMO: No response yet
+OSAAR: Approved
+---------------------------
+Event Name: Allen's birthday
+Event Date: 2025-06-11
+Event Venue: Smart Room
+Event Objectives: Birthday
+Relevant SDGs: 1
+Username: gdsc@org.mapua
+Status: Pending
+CDMO: No response yet
+OSAAR: Approved

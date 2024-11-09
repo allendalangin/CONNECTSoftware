@@ -1,0 +1,3 @@
+C:/Users/allen/VSCode/myapp/backend/build/CMakeFiles/CrowApp.dir
+C:/Users/allen/VSCode/myapp/backend/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/allen/VSCode/myapp/backend/build/CMakeFiles/ZERO_CHECK.dir

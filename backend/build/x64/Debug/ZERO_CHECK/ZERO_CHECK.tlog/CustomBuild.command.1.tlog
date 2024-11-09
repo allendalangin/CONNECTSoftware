@@ -1,0 +1,10 @@
+^C:\USERS\ALLEN\VSCODE\MYAPP\BACKEND\BUILD\CMAKEFILES\E3A3A47EE0AA632F182ECDC440FC1AE5\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/allen/VSCode/myapp/backend -BC:/Users/allen/VSCode/myapp/backend/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/allen/VSCode/myapp/backend/build/CrowApp.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
