@@ -40,4 +40,10 @@
 
 ### Notes:
 - Ensure that you have **OpenSSL** installed if required by the backend.
+- The backend requires an **unrestricted** Google Chrome due to CORS restriction.
+- Use this in the command line to run an **unrestricted** Google Chrome:
+  ```
+  Start-Process "C:\Program Files\Google\Chrome\Application\chrome.exe" -ArgumentList "--disable-web-security", "--user-data-dir=C:\chrome_dev"
+  ```
+  
 - If you encounter issues with the `.exe` file being quarantined, temporarily disable antivirus software or configure it to allow the file.
