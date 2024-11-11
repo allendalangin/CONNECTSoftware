@@ -2,10 +2,10 @@
 
 ## Setup Instructions
 
-1. **Clone the repository** and checkout the `zip` branch.
+1. **Clone the repository** int the `zip` branch.
 
 2. **Backend Setup**:
-   - Navigate to the `backend` folder.
+   - Navigate to the `backend` folder in the terminal.
    - If the `CrowApp.exe` file is already present, run the following command:
      ```
      ./CrowApp.exe
@@ -24,7 +24,7 @@
      *(Note: You may need to exclude the `.exe` file from antivirus software, as it may get quarantined.)*
 
 3. **Frontend Setup**:
-   - Navigate to the `frontend` folder.
+   - Navigate to the `frontend` folder in the terminal.
    - Make sure **Node.js** is installed.
    - Run the following command to start the frontend:
      ```
