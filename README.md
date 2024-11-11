@@ -12,6 +12,8 @@
      ```
      *(Note: OpenSSL might be required.)*
 
+   - The backend may require `GCC` or `g++` compiler and `vcpkg` library
+     
    - If `CrowApp.exe` does not exist, you'll need to build the backend:
      - First, run the following commands to generate the build files:
        ```
